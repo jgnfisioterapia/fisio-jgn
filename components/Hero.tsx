@@ -27,7 +27,7 @@ const Hero: React.FC = () => {
             </span>
             <h1 className="text-4xl lg:text-6xl font-extrabold text-slate-700 leading-tight mb-6 uppercase">
               CLINICA FISIOTERAPIA <br/>
-              <span className="text-sage-500">JGN</span>
+              <span className="text-red-600">JGN</span>
             </h1>
             <p className="text-xl text-slate-600 mb-10 max-w-lg leading-relaxed">
               Recupera tu bienestar y tu mejor versión con tratamientos personalizados de fisioterapia avanzada y terapia manual en Mirasierra y Montecarmelo.
